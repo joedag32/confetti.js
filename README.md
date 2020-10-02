@@ -30,6 +30,7 @@ You can also configure these parameters:
 	confetti.maxCount = 150;     //set max confetti count
 	confetti.speed = 2;          //set the particle animation speed
 	confetti.frameInterval = 20; //the confetti animation frame interval in milliseconds
+	confetti.colors = ["30,144,255", "107,142,35", etc.];        // array of confetti colors in rgb format
 	confetti.alpha = 1.0;        //the alpha opacity of the confetti (between 0 and 1, where 1 is opaque and 0 is invisible)
 	confetti.gradient = false;   //whether to use gradients for the confetti particles
 
